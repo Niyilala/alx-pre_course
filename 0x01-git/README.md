@@ -1,1 +1,1 @@
-content for 0x01 git
+readme properly edited
